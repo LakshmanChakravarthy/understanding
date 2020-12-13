@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Perspective articles
 
-You can use the [editor on GitHub](https://github.com/LakshmanChakravarthy/understanding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. [Your Brain is Like a Computer: Function, Analogy, Simplification](https://drive.google.com/file/d/1qqUHX7n_ITNyqVu_hD7HE_qW1s4eCnkb/view) by Mazviita Chirimuuta
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. [What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374) by Timothy P. Lillicrap & Konrad P. Kording
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LakshmanChakravarthy/understanding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
